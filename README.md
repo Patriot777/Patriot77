@@ -8,4 +8,11 @@ ______
 ### Встановлення
 1. Для роботи у програмі у вас повинен бути встановлений браузер Chrome, [завантажити можна тут](https://www.google.com/chrome/?brand=BNSD&gclid=CjwKCAjw3riIBhAwEiwAzD3TiUO7b8yjsiC1Py8bazCA3BG0fLeArFPW1SwbF5u3f9MRBTw7ggFyeBoCyhAQAvD_BwE&gclsrc=aw.ds)
 2. Встановлений Python 3.6+ версії, [завантажити](https://www.python.org/downloads/)
-3. Встановлений модуль eel ```python pip install eel```
+3. Встановлений модуль eel ```pip install eel```
+4. Завантажити файли з перозиторію.
+5. Запустити файл main.py
+
+### Версії
+**1.0.0**<br>
+- **Головна сторінка:** перегляд таблиці з бази. Експорт у xlsx формат, файл зберігається у директорії **export** з назвою таблиці.
+- **Редагування:** можна редагувати таблицю, змінювати дані та додавати/видаляти рядки.
